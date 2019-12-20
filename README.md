@@ -2,7 +2,7 @@
 Eye-car is a self-driving car project that recognizes the center of the lane without direct maneuvering while driving and recognizes and adjusts the speed when a human handwriting speed signal is read.
 
 ## Documents
-### [Eye-Car Final Report](https://docs.google.com/document/d/1Pd1ApwdkshFOSEoRoL0Al_gcqtSfRtKXIdYn5p_j0cE/edit?usp=sharing)
+### [Eye-Car Final Report](https://docs.google.com/document/d/17igFHHZcF7QzcSuRyHR54PTvwCapKHJ5tV0HvqecKbo/edit?usp=sharing)
 
 ### Demo
 ![Demo](https://user-images.githubusercontent.com/45455072/71264599-c754c500-2387-11ea-87bd-64846ea6d787.gif)
