@@ -1,5 +1,5 @@
 # Eye-Car
-Eye-car는 주행 중 사람의 직접적인 조종없이 차선의 중앙을 인식하여 운행하며, 인간의 손글씨 속도 신호를 읽게 되었을 경우 이를 인식하고 속도를 조절하는 기능을 갖춘 자율주행 자동차 프로젝트다.
+Eye-car is a self-driving car project that recognizes the center of the lane without direct maneuvering while driving and recognizes and adjusts the speed when a human handwriting speed signal is read.
 
 ## Documents
 ### [Eye-Car Final Report](https://docs.google.com/document/d/1Pd1ApwdkshFOSEoRoL0Al_gcqtSfRtKXIdYn5p_j0cE/edit?usp=sharing)
