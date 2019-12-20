@@ -33,10 +33,6 @@ MazeRunner
     └─ EyeCar.py                (Main program)
 ```
 
-## Table of Contents
-1. [Getting Started](#getting-started)
-2. [Features](#features)
-
 ---
 
 ## Getting Started
